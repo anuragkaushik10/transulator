@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+textarea { font-size: 18px;font-family: Roboto; }
+
+.footer{
+    display: flex;
+    align-items: center;
+}
