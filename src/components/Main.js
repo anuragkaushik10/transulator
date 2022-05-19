@@ -114,6 +114,7 @@ export default function Main() {
             variant="contained"
             color="secondary"
             onClick={(e) => translate()}
+            size="large"
           >
             Translate
           </Button>
